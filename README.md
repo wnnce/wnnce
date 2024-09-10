@@ -7,11 +7,11 @@
 
 由于目前`Java`后端开发和前端开发的处境不太理想，目前学习重心正在向`golang`转移，目前2024想学习的技术有：
 
-- go-zero
-- flutter
-- flink
-- nextjs
-- Kubernetes
-- rust（可能）
+- [ ] go-zero
+- [x] flutter
+- [ ] flink
+- [x] nextjs
+- [ ] Kubernetes
+- [ ] rust（可能）
 
 ![Spring](https://img.shields.io/badge/Spring-00bd56?style=flat-square&logo=spring&logoColor=white) ![SpringCloud](https://img.shields.io/badge/SpringCloud-00bd56?style=flat-square&logo=springboot&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1eafed?style=flat-square&logo=docker&logoColor=white) ![ArchLinux](https://img.shields.io/badge/ArchLinux-53c7f0?style=flat-square&logo=archlinux&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-398ab9?style=flat-square&logo=typescript&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-31aa75?style=flat-square&logo=vue.js&logoColor=white) ![Nextjs](https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=next.js&logoColor=white) ![Nestjs](https://img.shields.io/badge/Nestjs-ff5959?style=flat-square&logo=nestjs&logoColor=white) ![Nodejs](https://img.shields.io/badge/Nodejs-95cd41?style=flat-square&logo=node.js&logoColor=white) ![Postgresql](https://img.shields.io/badge/Postgresql-1eafed?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-cf3333?style=flat-square&logo=Redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-3fc1c9?style=flat-square&logo=Elasticsearch&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-414141?style=flat-square&logo=apachekafka&logoColor=white) ![Python](https://img.shields.io/badge/Python-6e828a?style=flat-square&logo=python&logoColor=white)
