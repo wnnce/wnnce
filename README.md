@@ -7,7 +7,7 @@
 
 由于目前`Java`后端开发和前端开发的处境不太理想，目前学习重心正在向`golang`转移，目前2024想学习的技术有：
 
-- [ ] go-zero
+- [x] go-zero
 - [x] flutter
 - [ ] flink
 - [x] nextjs
