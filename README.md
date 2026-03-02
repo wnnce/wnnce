@@ -1,17 +1,45 @@
-# Hello I'am Lisang
-欢迎访问我的[Github](https://github.com/wnnce)主页
+# 👋 Hello, I'm Lisang (Ran ChangXin)
 
-[个人博客](https://blog.zeroxn.com)  [Web开发工具](https://tool.zeroxn.com)
+**后端开发 / 大模型应用开发者 @ 重庆邮电大学 2026 届**
 
-软件技术专业（Java）大三在读生，热爱数码喜欢折腾。范围包括但不限于电脑硬件、Linux、PVE、OpenWRT、黑苹果等。在校期间主学Java后端技术栈（SpringBoot、SpringCloud、SpringWebflux），能够熟练使用函数式接口和`CompletableFuture`以及线程池进行并发编程，或者使用`Webflux`进行事件驱动后端开发。了解`Netty`等网络通信框架。前端主要学习`TypeScript`和`Vue`，了解过`React`和`Nextjs`的`Tsx`以及基于`Nodejs`的大前端技术。业余时间喜欢写点开源项目和基于`Uniapp`的小程序，此外还多次在软件测试比赛中获奖，熟悉`Python`的自动化测试和网络爬虫。
+一位比起“完成功能”更喜欢“折腾技术”的开发者。从早期的 **黑苹果、OpenWRT、PVE、SpringBoot** 到现在的 **分布式架构与 AI Agent**，在折腾中慢慢前行。
 
-由于目前`Java`后端开发和前端开发的处境不太理想，目前学习重心正在向`golang`转移，目前2024想学习的技术有：
+---
 
-- [x] go-zero
-- [x] flutter
-- [ ] flink
-- [x] nextjs
-- [ ] Kubernetes
-- [ ] rust（可能）
+### 🛠️ 正在研究的方向
 
-![Spring](https://img.shields.io/badge/Spring-00bd56?style=flat-square&logo=spring&logoColor=white) ![SpringCloud](https://img.shields.io/badge/SpringCloud-00bd56?style=flat-square&logo=springboot&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1eafed?style=flat-square&logo=docker&logoColor=white) ![ArchLinux](https://img.shields.io/badge/ArchLinux-53c7f0?style=flat-square&logo=archlinux&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-398ab9?style=flat-square&logo=typescript&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-31aa75?style=flat-square&logo=vue.js&logoColor=white) ![Nextjs](https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=next.js&logoColor=white) ![Nestjs](https://img.shields.io/badge/Nestjs-ff5959?style=flat-square&logo=nestjs&logoColor=white) ![Nodejs](https://img.shields.io/badge/Nodejs-95cd41?style=flat-square&logo=node.js&logoColor=white) ![Postgresql](https://img.shields.io/badge/Postgresql-1eafed?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-cf3333?style=flat-square&logo=Redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-3fc1c9?style=flat-square&logo=Elasticsearch&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-414141?style=flat-square&logo=apachekafka&logoColor=white) ![Python](https://img.shields.io/badge/Python-6e828a?style=flat-square&logo=python&logoColor=white)
+我目前的开发重心已全面转向 **Go** 和 **Python** 的异步生态。
+
+* **全双工流式交互**：落地大模型实时语音/视频对话的编排，寻找进一步降低延迟与增强“拟人感”的解决方案。
+* **内存性能优化**：擅用引用计数和零分配/拷贝来降低流式服务的 GC 压力。
+* **AI Agent 工程化**：执着于大模型的工程化应用，包括但不限于 Prompt 工程、RAG 检索、长期记忆、自实现 Agent Execution Pipeline 等。
+* **底层机制**：对二进制协议、背压控制、结构化并发等底层设计有浓厚兴趣。
+
+---
+
+### 🚀 技术栈
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🌐 实验室
+
+欢迎访问我的一些在线实验项目：
+
+* **[Voice AI]**：[voice.vnc.ink](https://voice.vnc.ink) —— 体验基于 Go 的全双工流式对话。
+* **[分布式短链]**：[link.vnc.ink](https://link.vnc.ink) —— 一个高并发、水平扩展的架构实验。
+* **[技术博客]**：[blog.zeroxn.com](https://blog.zeroxn.com) —— 记录我的折腾笔记与心得。
+* **[Web 开发工具]**：[tool.zeroxn.com](https://tool.zeroxn.com) —— 一些顺手开发的效率小工具。
+
+---
+
+### 🔮 还需要填的坑...
+
+* **Cloud Native**: 学习 **Kubernetes (K8s)** 的弹性伸缩与无状态架构。
+* **System Language**: 计划入坑 **Rust**，追求更极致的系统级性能。
+
+---
+
+> "Keep tinkering, stay curious."
