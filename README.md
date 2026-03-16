@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lisang (Ran ChangXin)
+# 👋 Hello, I'm Ran ChangXin
 
 **后端开发 / 大模型应用开发者 @ 重庆邮电大学 2026 届**
 
